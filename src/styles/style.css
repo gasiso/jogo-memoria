@@ -74,6 +74,7 @@ body {
     border: none;
     border-radius: 15px;
     margin-top: 20px;
+    cursor: pointer;
 }
 
 #restart:hover {
